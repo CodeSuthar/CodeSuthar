@@ -19,8 +19,8 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/CodeSuthar"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodeSuthar" /></a></p>
 <h3 align="center">Github Stats:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codesuthar&show_icons=true&title_color=000033&text_color=000033&bg_color=0066cc&hide_border=true&locale=en&layout=compact" alt="codesuthar" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codesuthar&show_icons=true&title_color=000033&text_color=000033&bg_color=0066cc&icon_color=000033&hide_border=true&locale=en&layout=compact" alt="codesuthar" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=codesuthar&show_icons=true&theme=synthwave&title_color=000033&text_color=000033&bg_color=0066cc&hide_border=true&locale=en" alt="codesuthar" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=codesuthar&show_icons=true&theme=synthwave&title_color=000033&text_color=000033&bg_color=0066cc&icon_color=000033&hide_border=true&locale=en" alt="codesuthar" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codesuthar&theme=highcontrast" alt="codesuthar" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=codesuthar&theme=synthwave&hide_border=true&background=0066CC&stroke=000033&fire=000033&ring=000033&currStreakNum=000033&sideNums=000033&currStreakLabel=000033&sideLabels=000033&dates=000033" alt="codesuthar" /></p>
